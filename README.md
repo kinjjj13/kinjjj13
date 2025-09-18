@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Kinjal  
+Former Project Manager turned Data Enthusiast | Exploring Data, Design & Processes 🚀  
 
-<!--
-**kinjjj13/kinjjj13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+- 🎯 Ex-Project Manager, now diving deep into Data Analysis & BI  
+- 📊 Love working with numbers, patterns, and visual storytelling  
+- 🎨 Design enthusiast who believes structure + aesthetics = impact  
+- 🌱 Currently learning: Advanced Python & UI/UX principles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects  
+- 🍽️ [Tipping Behavior Analysis](https://github.com/kinjjj13/Tipping-Behavior-Analysis) – Exploring restaurant tipping patterns with Python  
+- 😴 [Sleeping Behavior Study](https://github.com/kinjjj13/Slumber_Stats) – Data-driven insights into sleep habits  
+
+---
+
+## 🌐 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/kinjalkoli/)
